@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ciuupi2"]
 	path = ciuupi2
 	url = https://github.com/cran/ciuupi2
-	shallow = true
-	registered = true
 [submodule "custom.gauss.quad"]
 	path = custom.gauss.quad
 	url = https://github.com/cran/custom.gauss.quad
-	shallow = true
-	registered = true
